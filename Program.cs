@@ -1,2 +1,3 @@
 ﻿Console.WriteLine(":. main .:");
-Console.WriteLine("alice/feat2");
+Console.WriteLine("a1");
+Console.WriteLine("a2");
